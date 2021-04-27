@@ -1,4 +1,4 @@
-async function getRandomChinese(length) {
+export async function getRandomChinese(length) {
     let result = '';
     let i = 0;
 

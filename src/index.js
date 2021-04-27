@@ -10,6 +10,6 @@ import { getMyTaxes } from './hws/hw-7';
 import { jackSmith } from './hws/hw-8';
 import { genarateRgbColor } from './hws/hw-10';
 import { getKayCode } from './hws/hw-11';
-import {} from './hws/hw-12';
+import {getRandomChinese} from './hws/hw-12';
 import { title } from './hws/hw-13';
 import { idGenerator } from './hws/hw-15';
