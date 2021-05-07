@@ -1,5 +1,4 @@
 export const title = document.querySelector('h1');
-console.log('title: ', title);
 const ost = document.querySelector('.ost');
 const buttonsWrapper = document.querySelector('.buttons__wrapper');
 const articlesWrapper = document.querySelector('.articles__wrapper');

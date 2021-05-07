@@ -11,7 +11,6 @@ function* createIdGenerator() {
     };
 };
 export const idGenerator = createIdGenerator();
-console.log('idGenerator: ', idGenerator.next().value);
 
 // idGeneratorBut.addEventListener('click', () => {
 //     idNumber.innerHTML = '';
